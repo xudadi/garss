@@ -27,8 +27,8 @@
 
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
-| TG011 | 重庆人社 | 重庆人社招考资讯 | {{latest_content}}  |  [订阅地址](https://rss.xudadi.com/gov/chongqing/rlsbj/sydw/) |
-| TG011 | 重庆梁平人社 | 重庆人社招考资讯 | {{latest_content}}  |  [订阅地址](https://rss.xudadi.com/gov/chongqing/rlsbj/lpzk/) |
+| TG001 | 重庆人社 | 重庆人社招考资讯 | {{latest_content}}  |  [订阅地址](https://rss.xudadi.com/gov/chongqing/rlsbj/sydw/) |
+| TG002 | 重庆梁平人社 | 重庆人社招考资讯 | {{latest_content}}  |  [订阅地址](https://rss.xudadi.com/gov/chongqing/rlsbj/lpzk/) |
 
 
 
