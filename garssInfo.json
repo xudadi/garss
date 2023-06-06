@@ -4,6 +4,11 @@
             "description": "重庆市人社局-事业单位公开招聘",
             "title": "重庆市人社局-事业单位公开招聘",
             "xmlUrl": "https://rss.xudadi.com/gov/chongqing/rlsbj/sydw/"
+        },
+        {
+            "description": "梁平人社局-事业单位公开招聘",
+            "title": "梁平人社局-事业单位公开招聘",
+            "xmlUrl": "https://rss.xudadi.com/gov/chongqing/rlsbj/lpzk/"
         }
     ]
 }
